@@ -1,6 +1,6 @@
 # Site settings
 title: Fei Blog
-SEOTitle: My Blog
+SEOTitle: Fei Blog
 header-img: img/home-bg.jpg
 email: feitechnique@gmail.com
 description: "Nothing but coding and algorithm"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     false
+zhihu_username:     false
+github_username:    false
+twitter_username:   false
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
