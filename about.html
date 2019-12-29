@@ -6,12 +6,18 @@ header-img: "img/about-bg.jpg"
 multilingual: true
 ---
 
- <!-- {% include multilingual-sel.html %} -->
+{% include multilingual-sel.html %}
 
 <!-- English Version -->
 <div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
+ 
+ <!-- French Version -->
+<div class="fr post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+ 
 </div>
 
 
