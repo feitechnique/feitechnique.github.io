@@ -15,9 +15,9 @@ future: true
 RSS: false
 weibo_username:     false
 zhihu_username:     false
-github_username:    false
+github_username:    feitechnique
 twitter_username:   false
-#facebook_username:  huxpro
+facebook_username:  feikudzu
 #linkedin_username:  firstname-lastname-idxxxx
 
 
